@@ -1,0 +1,268 @@
+.fdsa {
+    background-color: #010110;
+}
+
+.watch1 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch2 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch3 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch4 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch5 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch6 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch7 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch8 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.watch9 {
+    width: 400px;
+    height: 500px;
+    display: inline;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.bag {
+    position: fixed;
+    left: 86%;
+    top: 5%;
+    width: 55px;
+    height: 55px;
+}
+
+.bag:hover {
+    transition: 1s;
+    transform: scale(1.2);
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    background-color: #fcfdfd;
+}
+
+
+.like {
+    position: fixed;
+    left: 92%;
+    top: 6%;
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+
+.like:hover {
+    transform: scale(1.5);
+    transition-duration: 0.6s;
+}
+
+.korz1 {
+    text-decoration: none;
+    position: absolute;
+    left: 6em;
+    top: 21.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz2 {
+    text-decoration: none;
+    position: absolute;
+    left: 29.5em;
+    top: 21.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz3 {
+    text-decoration: none;
+    position: absolute;
+    left: 52.5em;
+    top: 21.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz4 {
+    text-decoration: none;
+    position: absolute;
+    left: 6em;
+    top: 48.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz5 {
+    text-decoration: none;
+    position: absolute;
+    left: 29.5em;
+    top: 48.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz6 {
+    text-decoration: none;
+    position: absolute;
+    left: 52.5em;
+    top: 48.5em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz7 {
+    text-decoration: none;
+    position: absolute;
+    left: 6em;
+    top: 76em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz8 {
+    text-decoration: none;
+    position: absolute;
+    left: 29.5em;
+    top: 76em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.korz9 {
+    text-decoration: none;
+    position: absolute;
+    left: 52.5em;
+    top: 76em;
+    border: 4px solid #e6e6e6;
+    border-radius: 15px;
+    width: 238px;
+    height: 82px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 82px;
+    text-align: center;
+    cursor: pointer;
+}
